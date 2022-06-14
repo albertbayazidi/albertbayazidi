@@ -4,10 +4,10 @@ Noen av intressene mine er spill, lese bøker, matte og fysikk.
 
 ### Ferdigheter
 
-🐍 Python
-💻 C++
-🗿  Fusion 360
-🕸️ HTML / CSS
+🐍 Python  
+💻 C++  
+🗿  Fusion 360  
+🕸️ HTML / CSS  
 
 - 🔭 Nåværende prosjekt er denne siden, og noe solcelle relatert.
 - 🌱 jeg lærer:Fusion 360 
