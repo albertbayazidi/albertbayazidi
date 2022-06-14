@@ -10,15 +10,20 @@ Noen av intressene mine er spill, lese bøker, matte og fysikk.
 🕸️ HTML / CSS  
 
 
-
+### Mer om meg
 
 - 🔭 Nåværende prosjekt er denne siden, og noe solcelle relatert.
 - 🌱 jeg lærer: Fusion 360 
-- 📫 Ta kontakt på: albert.bayazidi@gmail.com 
+- 📫 Ta kontakt på: albert.bayazidi@gmail.com  
+  
+  
+### Kodefordeling  
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertbayazidi&layout=compact&theme=dark)  
 
-
+  
 Besøkende
 <p> 
-  <img src="https://profile-counter.glitch.me/albertbayazidi/count.svg" />
+  <img src="https://profile-counter.glitch.me/albertbayazidi/count.svg"/>
 </p>
 
