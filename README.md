@@ -17,10 +17,6 @@ Noen av intressene mine er spill, lese bøker, matte og fysikk.
 - 📫 Ta kontakt på: albert.bayazidi@gmail.com 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertbayazidi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 Besøkende
 <p> 
   <img src="https://profile-counter.glitch.me/albertbayazidi/count.svg" />
