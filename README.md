@@ -21,7 +21,7 @@ Noen av intressene mine er spill, lese bøker, matte og fysikk.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertbayazidi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertbayazidi&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Besøkende
