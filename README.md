@@ -1,8 +1,13 @@
-### Hei sann, jeg heter Albert
+## Hei sann, jeg heter Albert
 Jeg elsker å lære og å utfordre meg selv med nye prosjekt. Denne sommeren prøver jeg å lære fusion 360 og 3D printing.
 Noen av intressene mine er spill, lese bøker, matte og fysikk.
 
-Skills: Python / C++ / Fusion 360  /  HTML / CSS
+### Ferdigheter
+
+🐍 Python
+💻 C++
+🗿  Fusion 360
+🕸️ HTML / CSS
 
 - 🔭 Nåværende prosjekt er denne siden, og noe solcelle relatert.
 - 🌱 jeg lærer:Fusion 360 
