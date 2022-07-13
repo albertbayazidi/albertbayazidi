@@ -13,7 +13,7 @@ Noen av intressene mine er spill, lese bøker, matte og fysikk.
 ### Mer om meg
 
 - 🔭 Nåværende prosjekt er nevrale nettverk, og noe solcelle relatert.
-- 🌱 jeg lærer: Fusion 360 
+- 🌱 Jeg lærer: Fusion 360 
 - 📫 Ta kontakt på: albert.bayazidi@gmail.com  
   
   
