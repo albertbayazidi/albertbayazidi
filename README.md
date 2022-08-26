@@ -5,7 +5,7 @@ Noen av intressene mine er spill, lese bøker, matte og fysikk.
 ### Ferdigheter
 
 🐍 Python  
-🗿  Fusion 360 
+🗿  Fusion 360  
 💻 C++  
 🕸️ HTML / CSS  
 
