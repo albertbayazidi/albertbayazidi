@@ -1,5 +1,5 @@
 ## Hei sann, jeg heter Albert
-Jeg elsker å lære og å utfordre meg selv med nye prosjekt. Denne sommeren prøver jeg å lære fusion 360 og 3D printing.
+Jeg elsker å lære og å utfordre meg selv med nye prosjekt.
 Noen av intressene mine er spill, lese bøker, matte og fysikk.
 
 ### Ferdigheter
@@ -12,10 +12,15 @@ Noen av intressene mine er spill, lese bøker, matte og fysikk.
 
 ### Mer om meg
 
-- 🔭 Nåværende prosjekt er nevrale nettverk, og noe solcelle relatert.
-- 🌱 Jeg lærer: Fusion 360 
+- 🔭 Nåværende prosjekt er [Cogitopia](https://github.com/CogitoNTNU/cogitopia)
 - 📫 Ta kontakt på: albert.bayazidi@gmail.com  
   
+  
+### Tidligere prosjekt 
+- :abc: [letter predictor](https://github.com/albertbayazidi/Emnist_letter_predictor/blob/main/imgrec.ipynb)
+- :crystal_ball:  [Income prediction] https://github.com/albertbayazidi/us_income_prediction
+- :chart_with_upwards_trend: [Sparekalkulator] https://github.com/albertbayazidi/Sparekalkulator/blob/main/spare_kalkulator.ipynb
+- :sound: [Avstands sensor] https://github.com/albertbayazidi/Ultrasound_distance_measuring
   
 ### Kodefordeling  
 
