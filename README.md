@@ -21,7 +21,7 @@ Noen av intressene mine er spill, lese bøker, matte og fysikk.
 - :crystal_ball:  [Income prediction](https://github.com/albertbayazidi/us_income_prediction)
 - :chart_with_upwards_trend: [Sparekalkulator](https://github.com/albertbayazidi/Sparekalkulator/blob/main/spare_kalkulator.ipynb) 
 - :sound: [Avstands sensor](https://github.com/albertbayazidi/Ultrasound_distance_measuring) 
-- :white_check_mark: Masse mer
+- :white_check_mark: [Masse mer](https://github.com/albertbayazidi?tab=repositories)
   
 ### Kodefordeling  
 
