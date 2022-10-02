@@ -18,9 +18,9 @@ Noen av intressene mine er spill, lese bøker, matte og fysikk.
   
 ### Tidligere prosjekt 
 - :abc: [letter predictor](https://github.com/albertbayazidi/Emnist_letter_predictor/blob/main/imgrec.ipynb)
-- :crystal_ball:  [Income prediction] https://github.com/albertbayazidi/us_income_prediction
-- :chart_with_upwards_trend: [Sparekalkulator] https://github.com/albertbayazidi/Sparekalkulator/blob/main/spare_kalkulator.ipynb
-- :sound: [Avstands sensor] https://github.com/albertbayazidi/Ultrasound_distance_measuring
+- :crystal_ball:  [Income prediction](https://github.com/albertbayazidi/us_income_prediction)
+- :chart_with_upwards_trend: [Sparekalkulator](https://github.com/albertbayazidi/Sparekalkulator/blob/main/spare_kalkulator.ipynb) 
+- :sound: [Avstands sensor](https://github.com/albertbayazidi/Ultrasound_distance_measuring) 
   
 ### Kodefordeling  
 
