@@ -18,11 +18,12 @@ Noen av intressene mine er spill, lese bøker, matte og fysikk.
   
   
 ### Tidligere prosjekt 
-- :abc: [letter predictor](https://github.com/albertbayazidi/Emnist_letter_predictor/blob/main/imgrec.ipynb)
-- :crystal_ball:  [Income prediction](https://github.com/albertbayazidi/us_income_prediction)
-- :chart_with_upwards_trend: [Sparekalkulator](https://github.com/albertbayazidi/Sparekalkulator/blob/main/spare_kalkulator.ipynb) 
-- :sound: [Avstandssensor](https://github.com/albertbayazidi/Ultrasound_distance_measuring) 
-- :white_check_mark: [Masse mer](https://github.com/albertbayazidi?tab=repositories)
+- :abc: [letter predictor](https://github.com/albertbayazidi/Emnist_letter_predictor/blob/main/imgrec.ipynb)  
+- :crystal_ball:  [Income prediction](https://github.com/albertbayazidi/us_income_prediction)  
+- :books: [Grade_prediction](https://github.com/albertbayazidi/Grade_prediction)  
+- :chart_with_upwards_trend: [Sparekalkulator](https://github.com/albertbayazidi/Sparekalkulator/blob/main/spare_kalkulator.ipynb)   
+- :loud_sound: [Avstandssensor](https://github.com/albertbayazidi/Ultrasound_distance_measuring)   
+- :white_check_mark: [Masse mer](https://github.com/albertbayazidi?tab=repositories)  
   
 ### Kodefordeling  
 
