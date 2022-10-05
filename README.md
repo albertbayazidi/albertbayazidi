@@ -5,7 +5,7 @@ Noen av intressene mine er spill, lese bøker, matte og fysikk.
 ### Ferdigheter
 
 🐍 Python  
-:bar_chart: R
+:bar_chart: R  
 💻 C++ 
 🗿  Fusion 360  
 🕸️ HTML / CSS  
