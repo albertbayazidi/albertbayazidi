@@ -1,6 +1,6 @@
 ## Heisann, jeg heter Albert
-Jeg elsker å lære og å utfordre meg selv med nye prosjekt.
-Noen av intressene mine er spill, lese bøker, matte og fysikk.
+Jeg elsker å lære og å utfordre meg selv med nye prosjekter.  
+Noen av intressene mine er spill, bøker, programmering, matte og fysikk.
 
 ### Ferdigheter
 
