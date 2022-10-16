@@ -1,4 +1,4 @@
-## Hei sann, jeg heter Albert
+## Heisann, jeg heter Albert
 Jeg elsker å lære og å utfordre meg selv med nye prosjekt.
 Noen av intressene mine er spill, lese bøker, matte og fysikk.
 
