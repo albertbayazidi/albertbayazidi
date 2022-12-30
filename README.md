@@ -13,7 +13,6 @@ Noen av intressene mine er spill, bøker, programmering, matte og fysikk.
 
 ### Mer om meg
 
-- 🔭 Nåværende prosjekt er [Cogitopia](https://github.com/CogitoNTNU/cogitopia)
 - 📫 Ta kontakt på: albert.bayazidi@gmail.com  
   
   
