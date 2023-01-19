@@ -27,7 +27,7 @@ Noen av intressene mine er spill, bøker, programmering, matte og fysikk.
   
 ### Kodefordeling  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertbayazidi&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=albertbayazidi&layout=compact&theme=dark)
 
 ### Besøkende
 <p> 
