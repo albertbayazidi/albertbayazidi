@@ -12,8 +12,8 @@ Noen av intressene mine er spill, bøker, programmering, matte og fysikk.
 
 
 ### Mer om meg
-
-- 📫 Ta kontakt på: albert.bayazidi@gmail.com  
+- :fire: Nåværende prosjekt : IR camera  
+- 📫 Ta kontakt på: albert.bayazidi@gmail.com 
   
   
 ### Tidligere prosjekt 
