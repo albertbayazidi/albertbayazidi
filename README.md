@@ -1,12 +1,12 @@
 ## Heisann, jeg heter Albert
-Jeg elsker å lære og å utfordre meg selv med nye prosjekter.  
+Jeg elsker å lære, og utfordre nye prosjekter.  
 Noen av intressene mine er spill, bøker, programmering, matte og fysikk.
 
 ### Ferdigheter
 
-🐍 Python    
-💻 C++  
-🗿 Fusion 360   
+💻 C/C++  
+🐍 Python   
+🗿 Fusion 360    
 🕸️ HTML / CSS / Javascript
 
 
