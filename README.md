@@ -13,7 +13,7 @@ Noen av intressene mine er spill, bøker, programmering, matte og fysikk.
 🔥 Nåværende prosjekt: [Ir Camera](https://github.com/albertbayazidi/IR-Interpolation)  
 📫 Ta kontakt på: albert.bayazidi@gmail.com 
 
-<table>
+<table align="center">
   <tr>
     <th><h3>Code prosjekt</h3></th>
     <th><h3>Arduino prosjekter</h3></th>
@@ -37,3 +37,4 @@ Noen av intressene mine er spill, bøker, programmering, matte og fysikk.
     </td>
   </tr>
 </table>
+
