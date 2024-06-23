@@ -22,7 +22,7 @@ Noen av intressene mine er spill, bøker, programmering, matte og fysikk.
   <tr>
     <td>
       🔤 <a href="https://github.com/albertbayazidi/Emnist_letter_predictor/blob/main/imgrec.ipynb">letter predictor</a><br>
-      🔮 <a href="https://github.com/albertbayazidi/us_income_prediction">Income prediction</a><br>
+      🍉 <a href="https://studenterforpalestina.no/">Studenter for palestina nettside</a><br>
       📉 <a href="https://github.com/albertbayazidi/Sparekalkulator/blob/main/spare_kalkulator.ipynb">Sparekalkulator</a><br>
       🌐 <a href="https://chrome.google.com/webstore/detail/no-more-shorts/cdgiehpicfibgnnekjipimaabanbdagh?hl=no&authuser=0">Chrome extension</a>
     </td>
