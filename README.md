@@ -1,38 +1,39 @@
-## Heisann, jeg heter Albert
+## Hei, Jeg heter Albert
+
 Jeg elsker å lære, og utfordre nye prosjekter.  
 Noen av intressene mine er spill, bøker, programmering, matte og fysikk.
 
-### Ferdigheter
+### Språk, Teknologier jeg bruker
 
-💻 C/C++  
-🐍 Python   
-🗿 Fusion 360    
-🕸️ HTML / CSS / Javascript
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,js,bash,julia)
 
+![Technologies](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,neovim,git,react,nodejs,vite,opencv,pytorch,arduino)
 
 ### Mer om meg
-🔥 Nåværende prosjekt : IR camera  
+🔥 Nåværende prosjekt: [Ir Camera](https://github.com/albertbayazidi/IR-Interpolation)  
 📫 Ta kontakt på: albert.bayazidi@gmail.com 
-  
-  
-### Code prosjekt 
-🔤 [letter predictor](https://github.com/albertbayazidi/Emnist_letter_predictor/blob/main/imgrec.ipynb)  
-🔮 [Income prediction](https://github.com/albertbayazidi/us_income_prediction)  
-📉 [Sparekalkulator](https://github.com/albertbayazidi/Sparekalkulator/blob/main/spare_kalkulator.ipynb)   
-🌐 [Chrome extension](https://chrome.google.com/webstore/detail/no-more-shorts/cdgiehpicfibgnnekjipimaabanbdagh?hl=no&authuser=0)
 
-### Arduino prosjekter
-📷 [Ir-Camera](https://github.com/albertbayazidi/IR-Interpolation)  
-🪡 [AccuNeedle](https://github.com/albertbayazidi/AccuNeedle)  
-🔊 [Avstandssensor](https://github.com/albertbayazidi/Ultrasound_distance_measuring)  
-🚰 [Visuel Fuktmåler](https://github.com/albertbayazidi/Visual_moisture_indicator)  
-
-### Kodefordeling  
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=albertbayazidi&hide=jupyternotebook&layout=compact&theme=dark)
-
-### Besøkende
-<p> 
-  <img src="https://profile-counter.glitch.me/albertbayazidi/count.svg"/>
-</p>
-
+<table>
+  <tr>
+    <th><h3>Code prosjekt</h3></th>
+    <th><h3>Arduino prosjekter</h3></th>
+    <th><h3>Kodefordeling</h3></th>
+  </tr>
+  <tr>
+    <td>
+      🔤 <a href="https://github.com/albertbayazidi/Emnist_letter_predictor/blob/main/imgrec.ipynb">letter predictor</a><br>
+      🔮 <a href="https://github.com/albertbayazidi/us_income_prediction">Income prediction</a><br>
+      📉 <a href="https://github.com/albertbayazidi/Sparekalkulator/blob/main/spare_kalkulator.ipynb">Sparekalkulator</a><br>
+      🌐 <a href="https://chrome.google.com/webstore/detail/no-more-shorts/cdgiehpicfibgnnekjipimaabanbdagh?hl=no&authuser=0">Chrome extension</a>
+    </td>
+    <td>
+      📷 <a href="https://github.com/albertbayazidi/IR-Interpolation">Ir-Camera</a><br>
+      🪡 <a href="https://github.com/albertbayazidi/AccuNeedle">AccuNeedle</a><br>
+      🔊 <a href="https://github.com/albertbayazidi/Ultrasound_distance_measuring">Avstandssensor</a><br>
+      🚰 <a href="https://github.com/albertbayazidi/Visual_moisture_indicator">Visuel Fuktmåler</a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertbayazidi&hide=jupyternotebook,processing&layout=donut&theme=dark" alt="Top Langs">
+    </td>
+  </tr>
+</table>
