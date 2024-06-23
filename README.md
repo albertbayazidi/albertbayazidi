@@ -7,7 +7,7 @@ Noen av intressene mine er spill, bøker, programmering, matte og fysikk.
 
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,js,bash,julia)
 
-![Technologies](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,neovim,git,react,nodejs,vite,opencv,pytorch,arduino)
+![Technologies](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,git,react,nodejs,vite,opencv,pytorch,arduino)
 
 ### Mer om meg
 🔥 Nåværende prosjekt: [Ir Camera](https://github.com/albertbayazidi/IR-Interpolation)  
