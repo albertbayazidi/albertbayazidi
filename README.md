@@ -1,6 +1,6 @@
 ## Hei, Jeg heter Albert
 
-Jeg elsker å lære, og utfordre nye prosjekter.  
+Jeg elsker å lære, og utfordre meg selv med nye prosjekter.  
 Noen av intressene mine er spill, bøker, programmering, matte og fysikk.
 
 ### Språk, Teknologier jeg bruker
