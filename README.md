@@ -1,7 +1,7 @@
 ## Hei, Jeg heter Albert
 
-Jeg elsker å lære, og utfordre meg selv med nye prosjekter.  
-Noen av intressene mine er spill, bøker, programmering, matte og fysikk.
+Jeg elsker å lære.  
+Noen av intressene mine er spill, bøker, programmering, og fysikk.
 
 ### Språk, Teknologier jeg bruker
 
@@ -10,7 +10,7 @@ Noen av intressene mine er spill, bøker, programmering, matte og fysikk.
 ![Technologies](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,git,react,opencv,pytorch,arduino)
 
 ### Mer om meg
-🔥 Nåværende prosjekt: [Ir Camera](https://github.com/albertbayazidi/IR-Interpolation)  
+🔥 Nåværende prosjekt: ~~laser mikroskop~~ skriver master for [Simula](https://www.simula.no/)  
 📫 Ta kontakt på: albert.bayazidi@gmail.com 
 
 <table align="center">
