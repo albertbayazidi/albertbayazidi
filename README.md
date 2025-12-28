@@ -33,7 +33,7 @@ Noen av intressene mine er spill, bøker, programmering, og fysikk.
       🚰 <a href="https://github.com/albertbayazidi/Visual_moisture_indicator">Visuel Fuktmåler</a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertbayazidi&hide=jupyternotebook,processing&layout=donut&theme=dark&v=1" alt="Top Langs">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=albertbayazidi&hide=jupyternotebook,processing&layout=donut&theme=dark&v=1" alt="Top Langs">
     </td>
   </tr>
 </table>
